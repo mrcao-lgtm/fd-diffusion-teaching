@@ -31,7 +31,11 @@ python fd_diffusion.py
 
 ## 参考文献
 
-论文: X.Cao. 用有限差分法理解扩散过程[J]. 物理与工程, 2026.
+论文: Xinghuan Cao. 用有限差分法理解扩散过程[J]. 物理与工程, 2026.
+
+## 作者
+
+Xinghuan Cao, Department of Fundamental Courses, Ma'anshan University, Maanshan, China (ORCID: 0009-0008-4489-9763)
 
 ## 许可
 
